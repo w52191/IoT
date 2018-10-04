@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "EPD_R21", "EPD_R21.cproj", "{E406CAA3-998E-4B5C-ABF3-10BD543D31C7}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "EXAMPLES_MQTT-EXAMPLE1", "EXAMPLES_MQTT-EXAMPLE1\EXAMPLES_MQTT-EXAMPLE1.cproj", "{9555B40E-5824-4E31-B978-D68486313AE7}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E406CAA3-998E-4B5C-ABF3-10BD543D31C7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E406CAA3-998E-4B5C-ABF3-10BD543D31C7}.Debug|ARM.Build.0 = Debug|ARM
+		{E406CAA3-998E-4B5C-ABF3-10BD543D31C7}.Release|ARM.ActiveCfg = Release|ARM
+		{E406CAA3-998E-4B5C-ABF3-10BD543D31C7}.Release|ARM.Build.0 = Release|ARM
+		{9555B40E-5824-4E31-B978-D68486313AE7}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9555B40E-5824-4E31-B978-D68486313AE7}.Debug|ARM.Build.0 = Debug|ARM
+		{9555B40E-5824-4E31-B978-D68486313AE7}.Release|ARM.ActiveCfg = Release|ARM
+		{9555B40E-5824-4E31-B978-D68486313AE7}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
